@@ -1,1 +1,1 @@
-A simplified remake of Patatap using Paper.js and Howler.js.
+A simplified remake of [Patatap](https://www.patatap.com/) using Paper.js and Howler.js.
